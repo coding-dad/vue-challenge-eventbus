@@ -1,0 +1,6 @@
+.page-link {
+	border-bottom: 2px solid transparent;
+}
+.page-link.router-link-exact-active {
+	border-bottom: 2px solid orange;
+}
