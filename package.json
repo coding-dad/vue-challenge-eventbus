@@ -12,7 +12,7 @@
 	"license": "ISC",
 	"dependencies": {
 		"buefy": "^0.8.4",
-		"prismjs": "^1.17.1",
+		"prismjs": "^1.23.0",
 		"saber-plugin-prismjs": "^0.2.3"
 	},
 	"devDependencies": {
